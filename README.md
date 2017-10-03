@@ -1,1 +1,1 @@
-Source for [https://awsome.pw](https://awsome.pw), the greatest vulnerability ever.
+Source for [http://awsome.pw](http://awsome.pw), the greatest vulnerability ever.
